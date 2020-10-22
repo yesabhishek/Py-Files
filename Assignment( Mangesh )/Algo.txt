@@ -1,0 +1,19 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Jan 17 12:07:11 2020
+
+@author: achoud3
+"""
+
+Trigger function: 
+    
+    
+Key path=Json keys
+credentials (Initialize)
+
+Connecting bq with client cred
+
+There after there is two connection:
+    Connecting bq with client 
+    Connecting spanner with client
+

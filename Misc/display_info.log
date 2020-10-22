@@ -1,0 +1,22 @@
+INFO:root:Ran with args: ('Tom', 22), and kwargs: {}
+INFO:root:Ran with args: ('Tom', 22), and kwargs: {}
+INFO:root:Ran with args: ('Tom', 22), and kwargs: {}
+INFO:root:Ran with args: ('Tom', 22), and kwargs: {}
+INFO:__main__:Start of Integration Process : 2020-01-20 19:49:52.972753
+INFO:__main__:odate is:2020-01-20
+INFO:__main__:Start of Integration Process : 2020-01-20 19:52:51.542608
+INFO:__main__:odate is:2020-01-20
+INFO:__main__:Start of Integration Process : 2020-01-20 19:56:06.806133
+INFO:__main__:odate is:2020-01-20
+INFO:__main__:Start of Integration Process : 2020-01-20 19:59:49.412391
+INFO:__main__:odate is:2020-01-20
+INFO:__main__:Start of Integration Process : 2020-01-20 20:00:53.312780
+INFO:__main__:odate is:2020-01-20
+INFO:__main__:Deleting data from SurveyTaken
+INFO:__main__:Query:delete from SurveyTaken where SpModelName='Survey' and SpSourceName='MeetTheExpert_Dtl'
+INFO:__main__:0 records deleted for table SurveyTaken
+
+INFO:__main__:Getting SurveyTaken Table insert data from BQ
+INFO:google.auth.compute_engine._metadata:Compute Engine Metadata server unavailable onattempt 1 of 3
+INFO:google.auth.compute_engine._metadata:Compute Engine Metadata server unavailable onattempt 2 of 3
+INFO:google.auth.compute_engine._metadata:Compute Engine Metadata server unavailable onattempt 3 of 3
